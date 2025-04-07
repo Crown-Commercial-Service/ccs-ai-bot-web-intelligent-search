@@ -2,7 +2,7 @@
 
 # Intelligent Semantic Search Prototype for CCS Frameworks
 
-## 🚨 Problem Statement
+## Problem Statement
 
 The current corporate website relies on a keyword-based Elastic Search system integrated with the WordPress CMS. This method often fails to return relevant or meaningful results, especially for complex or natural language queries. Compounding this, the Guided Match tool—designed to assist users in search—has poor usability and low adoption.
 
@@ -10,7 +10,7 @@ As a result, users struggle to locate framework agreements and services effectiv
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To address these challenges, the objective is to:
 
@@ -20,7 +20,7 @@ To address these challenges, the objective is to:
 
 ---
 
-## 💡 Solution: Intelligent Search Prototype
+## Solution: Intelligent Search Prototype
 
 This project is a **web-based pilot** implementing an **intelligent semantic search system** capable of understanding and responding to natural language queries related to the Crown Commercial Service (CCS) frameworks.
 
@@ -31,7 +31,7 @@ Built using **LangGraph**, the system features a **multi-RAG agent architecture*
 
 ---
 
-## 🧠 Supported Frameworks
+## Supported Frameworks
 
 1. **Digital Outcomes (DOS) / G-Cloud 14**
    - Note: This crosses over into the CAS platform once Lot information is selected.
@@ -42,7 +42,7 @@ Built using **LangGraph**, the system features a **multi-RAG agent architecture*
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 The intelligent search is implemented using a **multi-agent Retrieval-Augmented Generation (RAG) architecture** powered by [LangGraph](https://docs.langchain.com/langgraph/).
 
@@ -61,7 +61,7 @@ The intelligent search is implemented using a **multi-agent Retrieval-Augmented 
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 
 | Tool/Service                | Purpose                                |
 |----------------------------|----------------------------------------|
@@ -73,7 +73,7 @@ The intelligent search is implemented using a **multi-agent Retrieval-Augmented 
 
 ---
 
-## 📊 Expected Impact
+## Expected Impact
 
 - Decrease CSC contact rate by **5%**.
 - Improve user satisfaction and reduce bounce rate.
