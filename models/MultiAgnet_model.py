@@ -359,5 +359,6 @@ Framwork_app = workflow.compile()
 def MultiAgent_Answering(query):
     state = Framwork_app.invoke({"query": query})
     answer = state["output"]
+    print(answer)
     log_query_to_blob(query, answer)
     return answer
