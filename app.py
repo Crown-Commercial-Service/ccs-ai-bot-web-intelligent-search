@@ -32,6 +32,11 @@ class QueryResponse(BaseModel):
     sources: Optional[list] = None
     processing_time: Optional[float] = None
 
+@app.get("/")
+async def home():
+    """Health check endpoint"""
+    return {"status": "Intelligent Search Engine API is Active"}
+
 @app.post("/search", response_model=QueryResponse)
 async def search(
     request: QueryRequest,
@@ -49,12 +54,12 @@ async def search(
     """
     try:
         start_time = time.time()
-        answer = process_query(request.query)
+        answer, framework_numbers = process_query(request.query)
         processing_time = time.time() - start_time
         
         return QueryResponse(
             answer=answer,
-            sources=None,  # You can add sources if available
+            sources=framework_numbers, 
             processing_time=processing_time
 
         )
@@ -66,6 +71,6 @@ async def health_check():
     """Health check endpoint"""
     return {"status": "healthy"}
 
-# if __name__ == "__main__":
-#     uvicorn.run("app:app", host="0.0.0.0", port=8000, reload=True)
+if __name__ == "__main__":
+    uvicorn.run("app:app", host="0.0.0.0", port=8000, reload=True)
 # gunicorn -k uvicorn.workers.UvicornWorker app:app --bind=0.0.0.0:8000

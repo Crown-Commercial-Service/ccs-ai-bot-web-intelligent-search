@@ -4,11 +4,11 @@ import os
 
 # For local testing
 API_URL = "http://localhost:8000/search"
-API_KEY = "web-intelligentSearchNS-20250403"  # Same key as in your API code
+API_KEY = ""  # Same key as in your API code
 
 # Test query
 test_query = {
-    "query": "Which framework would provide me the cloud deploying services?"
+    "query": "We are from NHS and we are looking to hire NHS temparary staff. can you recommand me the framework?"
 }
 
 def test_search_api():
@@ -30,7 +30,8 @@ def test_search_api():
         if response.status_code == 200:
             print("Success! API Response:")
             response_data = response.json()  # Already parsed JSON
-            print(json.dumps(response_data, indent=2))
+            # with open("api_response.json", "w") as f:
+            #     json.dump(response_data, f, indent=2)
             return response_data  # Return parsed dict instead of string
         else:
             print(f"Error: {response.text}")
@@ -59,7 +60,7 @@ def test_deployed_api(deployed_url):
         if response.status_code == 200:
             print("Success! Deployed API Response:")
             response_data = response.json()  # Already parsed JSON
-            print(json.dumps(response_data, indent=2))
+            response_data = json.dumps(response_data, indent=2)
             return response_data  # Return parsed dict instead of string
         else:
             print(f"Error: {response.text}")
@@ -78,7 +79,9 @@ if __name__ == "__main__":
     # print("\nTesting local API...")
     # output = test_search_api()
     # print('yes done')
-    
+
     if output:
-        print(type(output))  # Should be <class 'dict'>
-        print(output.get("answer"))  # Safely access the result
+        print(output)
+        print(type(output))
+
+    

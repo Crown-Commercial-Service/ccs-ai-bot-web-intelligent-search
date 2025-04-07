@@ -53,6 +53,7 @@ class State(TypedDict):
     framework_recommder: str
     framework_details: str
     output: str
+    framework_numbers: list
     # query_out_of_scope: str
     query_embeddings: list
     Framework_list: list
@@ -117,7 +118,8 @@ def FR_step_3_LLM(state: State):
     response = client.chat.completions.create(model="gpt-4o-code",
                                               messages=messsage_text).choices[0].message.content
 
-    return {"output": response}
+    return {"output": response, 
+            "framework_numbers": re.findall(r'RM\d+', response)}
 
 # out of scope:
 def query_out_of_scope(state: State):
@@ -140,7 +142,8 @@ def query_out_of_scope(state: State):
     # Simulating human intervention by waiting for input
     # new_query = input(response_message)  # Ask user for new input
     
-    return {"output": response_message}  # Returns the new query for reprocessing
+    return {"output": response_message, 
+            "framework_numbers": []}  # Returns the new query for reprocessing
 
 
 def route_decision_stage_1(state: State):
@@ -288,7 +291,8 @@ def FD_step_3_LLM(state: State):
     response = client.chat.completions.create(model="gpt-4o-code",
                                               messages=messsage_text).choices[0].message.content
 
-    return {"output": response}
+    return {"output": response,
+            "framework_numbers": state['Framework_classification'].upper()}
 
 
 def Framework_requery(state: State):
@@ -312,7 +316,8 @@ def Framework_requery(state: State):
     </ul>
     """
     
-    return {"output": response_message}  # Returns the new query for reprocessing
+    return {"output": response_message,
+            "framework_numbers": []}  # Returns the new query for reprocessing
 
 # Build the workflow using langgraph
 workflow = StateGraph(State)
@@ -359,6 +364,6 @@ Framwork_app = workflow.compile()
 def MultiAgent_Answering(query):
     state = Framwork_app.invoke({"query": query})
     answer = state["output"]
-    print(answer)
+    framework_numbers =state["framework_numbers"]
     log_query_to_blob(query, answer)
-    return answer
+    return answer, framework_numbers
