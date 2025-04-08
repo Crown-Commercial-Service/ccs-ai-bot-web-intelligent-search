@@ -4,11 +4,11 @@ import os
 
 # For local testing
 API_URL = "http://localhost:8000/search"
-API_KEY = ""  # Same key as in your API code
+API_KEY = "web-intelligentSearchNS-20250403"  # Same key as in your API code
 
 # Test query
 test_query = {
-    "query": "We are from NHS and we are looking to hire NHS temparary staff. can you recommand me the framework?"
+    "query": "Which framework provides AI support?"
 }
 
 def test_search_api():
@@ -72,13 +72,18 @@ def test_deployed_api(deployed_url):
 
 if __name__ == "__main__":
     # For testing deployed API
+    
+    print("\nTesting local API...")
+    output = test_search_api()
+    print('yes done')
+
+    if output:
+        print(output)
+        print(type(output))
+
     azure_url = "https://azd-uks-ai-webpilot-intelligentsearch-api-a3ewg3deabbmasab.uksouth-01.azurewebsites.net"
     print("\nTesting deployed API...")
     output = test_deployed_api(azure_url)
-
-    # print("\nTesting local API...")
-    # output = test_search_api()
-    # print('yes done')
 
     if output:
         print(output)

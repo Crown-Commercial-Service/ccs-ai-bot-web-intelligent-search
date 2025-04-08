@@ -117,9 +117,13 @@ def FR_step_3_LLM(state: State):
 
     response = client.chat.completions.create(model="gpt-4o-code",
                                               messages=messsage_text).choices[0].message.content
+    fr_numbers = re.findall(r'RM\d+', response)
+    
+    if type(fr_numbers)==str:
+        fr_numbers = [fr_numbers]
 
     return {"output": response, 
-            "framework_numbers": re.findall(r'RM\d+', response)}
+            "framework_numbers": fr_numbers}
 
 # out of scope:
 def query_out_of_scope(state: State):
@@ -290,9 +294,10 @@ def FD_step_3_LLM(state: State):
 
     response = client.chat.completions.create(model="gpt-4o-code",
                                               messages=messsage_text).choices[0].message.content
+    
 
     return {"output": response,
-            "framework_numbers": state['Framework_classification'].upper()}
+            "framework_numbers": [state['Framework_classification'].upper()]}
 
 
 def Framework_requery(state: State):
