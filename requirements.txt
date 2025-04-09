@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+typing-extensions
+azure-search-documents
+numpy
+openai
+python-dotenv
+azure-core
+pandas
+azure-storage-blob
+gunicorn
+azure-identity
+langgraph
