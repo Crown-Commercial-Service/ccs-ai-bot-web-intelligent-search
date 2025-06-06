@@ -44,3 +44,31 @@ def format_llm_response(llm_response):
     return formatted_content
 
 
+def reading_prompt(filename):
+    blob_string = os.getenv("blob_storgae_connection_string")
+    container_Name = 'webpilot-prompts'
+
+    blob_server_connection = BlobServiceClient.from_connection_string(blob_string)
+
+    blob_client = blob_server_connection.get_blob_client(container=container_Name, blob=filename)
+
+    blob_data = blob_client.download_blob()
+    prompt_text = blob_data.readall().decode('utf-8')
+    print(prompt_text)
+
+    return prompt_text
+
+
+def log_query_to_blob_v2(query, answer, query_classification):
+
+    connect_str = os.getenv('blob_storgae_connection_string')
+    container_name = os.getenv('container_name')  
+    blob_service_client = BlobServiceClient.from_connection_string(connect_str)
+    
+    now = datetime.now()
+    query_name = now.strftime("log_query_%Y-%m-%d_%H-%M-%S.json")
+    blob_client = blob_service_client.get_blob_client(container=container_name, blob=query_name)
+    blob_client.upload_blob(json.dumps({'query':query,
+                                        'LLM_response':answer, 
+                                        'query_classification':query_classification}), overwrite=True)
+
