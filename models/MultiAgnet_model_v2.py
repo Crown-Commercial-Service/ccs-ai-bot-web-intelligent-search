@@ -10,10 +10,8 @@ from openai import AzureOpenAI
 from azure.core.credentials import AzureKeyCredential
 from azure.search.documents import SearchClient
 from azure.search.documents.models import VectorizedQuery
-from azure.storage.blob import BlobServiceClient
 
 from langgraph.graph import StateGraph, START, END
-from pydantic import BaseModel
 from typing_extensions import TypedDict
 
 from utils.UsefulFunctions import reading_prompt, log_query_to_blob_v2
@@ -222,6 +220,8 @@ class State(TypedDict):
     frameworkNames: list
     output: str
     framework_numbers: list
+    LLM_output: str
+    LLM_2_response: str
 
 # Stage 1: classifiy the question into framework recommender, about the framework and out of scope                                                                                                                                                      
 
@@ -288,8 +288,7 @@ def Framework_Recommendation_agent(state: State):
 
     response = ResponseFromLLM(systems_prompt, users_prompt)
        
-    return {"output": response,
-            "framework_numbers": re.findall(r'RM\d+', response)}
+    return {"LLM_output": response}
 
 def Startup_agenet(state: State):
 
@@ -304,8 +303,7 @@ def Startup_agenet(state: State):
 
     response = ResponseFromLLM(systems_prompt, users_prompt)
        
-    return {"output": response,
-            "framework_numbers": re.findall(r'RM\d+', response)}
+    return {"LLM_output": response}
 
 def Comparison_agent(state: State):
 
@@ -340,21 +338,23 @@ def Comparison_agent(state: State):
 
     response = ResponseFromLLM(systems_prompt, users_prompt)
        
-    return {"output": response,
-            "framework_numbers": re.findall(r'RM\d+', response)}
+    return {"LLM_output": response}
 
 def query_out_of_scope(state: State):
     query = state["query"]
     
     response_message = f"""
-    Your question '{query}' is beyond our scope.
-
-    Please refine your question to be about framework recommendations or details.
-    Example of valid questions:
-    - "Which framework is best for digital services?"
-    - "Tell me about RM6098 and how to buy it."
-
-    Please rewrite your question accordingly:
+    <p>Your question '<strong>{query}</strong>' is beyond our scope.</p>
+  
+  <div class="guidance">
+    <p>Please refine your question to be about framework recommendations or details.</p>
+    <p>Example of valid questions:</p>
+    <ul>
+      <li>"Which framework is best for digital services?"</li>
+      <li>"Tell me about RM6098 and how to buy it."</li>
+    </ul>
+    <p>Please rewrite your question accordingly:</p>
+  </div>
     """
     
     # Simulating human intervention by waiting for input
@@ -395,48 +395,102 @@ def Framework_details_agent(state: State):
 
     response = ResponseFromLLM(systems_prompt, users_prompt)
        
-    return {"output": response,
-            "framework_numbers": re.findall(r'RM\d+', response)}
+    return {"LLM_output": response}
 
 def Framework_requery(state: State):
     query = state["query"]
     
     response_message = f"""
-    Your question '{query}' is beyond our scope.
-
-    Please refine your question to be about details regarding the framework.
-    Example of valid questions:
-    - "how to buy the Digital outcomes agreememnt?"
-    - "Tell me about RM6098 and how to buy it."
-
-    Please rewrite your question accordingly:
+    <p>Your question '<strong>{query}</strong>' is beyond our scope.</p>
+  
+  <div class="guidance">
+    <p>Please refine your question to be about framework recommendations or details.</p>
+    <p>Example of valid questions:</p>
+    <ul>
+      <li>"Which framework is best for digital services?"</li>
+      <li>"Tell me about RM6098 and how to buy it."</li>
+    </ul>
+    <p>Please rewrite your question accordingly:</p>
+  </div>
     """
     
     return {"output": response_message,
             "framework_numbers": []}  # Returns the new query for reprocessing
 
+def plaing_english_numbers(state: State):
+    LLM_response = state['LLM_output']
+    query_text = state['query']
+
+    system_prompt_file = 'plain_english_system_prompt.txt'
+    systems_prompts = reading_prompt(system_prompt_file)
+    
+    user_prompt_file = 'plain_english_user_prompt.txt'
+    user_prompt = reading_prompt(user_prompt_file)
+    user_prompt = user_prompt.replace('{query_text}', query_text)
+    user_prompt = user_prompt.replace('{content}', LLM_response)
+    
+    client = AzureOpenAI(api_key=os.getenv("openai_api_key"),
+                         api_version=os.getenv("openai_api_version"),
+                         azure_endpoint=os.getenv("openai_azure_endpoint"))    
+    
+    message_text = [{'role':'system', 'content':systems_prompts},
+                    {'role':'user', 'content': user_prompt}]
+    
+    response = client.chat.completions.create(model='gpt-4o-code',
+                                              messages=message_text).choices[0].message.content
+
+    print(response)
+    return {"LLM_2_response": response}
+
+def bulletpoint_formating(state: State):
+    LLM_response = state['LLM_2_response']
+    query_text = state['query']
+
+    system_prompt_file = 'bulletpoints_system_prompt.txt'
+    systems_prompts = reading_prompt(system_prompt_file)
+    
+    user_prompt_file = 'bulletpoints_user_prompt.txt'
+    user_prompt = reading_prompt(user_prompt_file)
+    user_prompt = user_prompt.replace('{query_text}', query_text)
+    user_prompt = user_prompt.replace('{content}', LLM_response)
+
+    client = AzureOpenAI(api_key=os.getenv("openai_api_key"),
+                         api_version=os.getenv("openai_api_version"),
+                         azure_endpoint=os.getenv("openai_azure_endpoint"))    
+    
+    message_text = [{'role':'system', 'content':systems_prompts},
+                    {'role':'user', 'content': user_prompt}]
+    
+    response = client.chat.completions.create(model='gpt-4o-code',
+                                              messages=message_text).choices[0].message.content
+
+    print(response)
+    return {"output": response,
+            "framework_numbers": re.findall(r'RM\d+', response)}
 
 workflow = StateGraph(State)
 
 # add all nodes.
 workflow.add_node('query_supervisor', llm_call_router_stage_1)
-workflow.add_node('route_decision_stage_1', route_decision_stage_1)
 workflow.add_node('Framework_Recommendation_agent', Framework_Recommendation_agent)  
 workflow.add_node('Startup_agenet', Startup_agenet)
 workflow.add_node('Comparison_agent', Comparison_agent)
 workflow.add_node('query_out_of_scope', query_out_of_scope)
 workflow.add_node('Framework_Supervisor', llm_call_router_stage_2)
-workflow.add_node('route_decision_stage_2', route_decision_stage_2)
 workflow.add_node('Framework_details_agent', Framework_details_agent)
 workflow.add_node('Framework_requery', Framework_requery)
+workflow.add_node('plaing_english_numbers', plaing_english_numbers)
+workflow.add_node("bulletpoint_formating", bulletpoint_formating)
 
 # add all edges.
-workflow.add_edge("Framework_Recommendation_agent", END)
-workflow.add_edge("Startup_agenet", END)
-workflow.add_edge("Comparison_agent", END)
+workflow.add_edge("Framework_Recommendation_agent", "plaing_english_numbers")
+workflow.add_edge("Startup_agenet", "plaing_english_numbers")
+workflow.add_edge("Comparison_agent", "plaing_english_numbers")
 workflow.add_edge("query_out_of_scope", END)
-workflow.add_edge("Framework_details_agent", END)
+workflow.add_edge("Framework_details_agent", "plaing_english_numbers")
 workflow.add_edge("Framework_requery", END)
+workflow.add_edge("plaing_english_numbers", "bulletpoint_formating")
+workflow.add_edge("bulletpoint_formating", END)
 
 # conditional edges
 # Add conditional routing 
@@ -452,6 +506,7 @@ workflow.add_conditional_edges("Framework_Supervisor", route_decision_stage_2, {
 # set the entry point 
 workflow.set_entry_point("query_supervisor")
 
+
 # compile the workflow
 Framwrork_app = workflow.compile()
 # display(Image(app.get_graph().draw_mermaid_png()))
@@ -460,8 +515,9 @@ Framwrork_app = workflow.compile()
 
 def MultiAgent_Answering(query):
     state = Framwrork_app.invoke({"query": query})
-    answer = state["output"]
+    answer_html = state["output"]
+    answer = state["LLM_2_response"]
     framework_numbers =state["framework_numbers"]
     query_classification = state['query_classification']
     log_query_to_blob_v2(query, answer, query_classification)
-    return answer, framework_numbers
+    return answer, answer_html, framework_numbers

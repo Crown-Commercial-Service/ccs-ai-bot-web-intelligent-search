@@ -3,7 +3,7 @@ from fastapi.security import APIKeyHeader
 from fastapi.middleware.cors import CORSMiddleware
 from typing import Optional
 from pydantic import BaseModel
-from models.MultiAgnet_model import MultiAgent_Answering as process_query
+from models.MultiAgnet_model_v2 import MultiAgent_Answering as process_query
 from auth import validate_api_key
 import time
 import uvicorn
@@ -29,6 +29,7 @@ class QueryRequest(BaseModel):
 
 class QueryResponse(BaseModel):
     answer: str
+    answer_html: str
     sources: Optional[list] = None
     processing_time: Optional[float] = None
 
@@ -54,11 +55,12 @@ async def search(
     """
     try:
         start_time = time.time()
-        answer, framework_numbers = process_query(request.query)
+        answer, answer_html, framework_numbers = process_query(request.query)
         processing_time = time.time() - start_time
         
         return QueryResponse(
             answer=answer,
+            answer_html=answer_html,
             sources=framework_numbers, 
             processing_time=processing_time
 

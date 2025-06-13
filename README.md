@@ -57,7 +57,7 @@ The intelligent search is implemented using a **multi-agent Retrieval-Augmented 
 - **Fallbacks**:
   - Handles requery and out-of-scope detection.
 
-![Model Architecture](./models/Multi_Agent_Model_v1.png) <!-- Update path to actual image if hosted -->
+![Model Architecture](./models/Multi_Agent_Model_v2.png) <!-- Update path to actual image if hosted -->
 
 ---
 
