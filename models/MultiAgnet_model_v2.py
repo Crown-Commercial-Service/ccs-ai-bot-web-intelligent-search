@@ -261,14 +261,14 @@ def Framework_Recommendation_agent(state: State):
     data_classification = 'recommendation'
     query_classification = state['query_classification']
 
-    search_client = SearchClient(endpoint=os.getenv('azure_search_service_endpoint'),
+    search_client = SearchClient(endpoint=os.getenv('azure_search_service_new_endpoint'),
                                 index_name=os.getenv('azure_index_FM_recommender_name'), 
-                                credential=AzureKeyCredential(os.getenv('azure_search_api_key')))
+                                credential=AzureKeyCredential(os.getenv('azure_search_new_api_key')))
 
     query_embeddings = get_Embeddings(query) 
 
     vector_query = VectorizedQuery(vector=query_embeddings,
-                                   k_nearest_neighbors=20,
+                                   k_nearest_neighbors=10,
                                    fields="embeddings")
     search_results = search_client.search(search_text=None,
                                           vector_queries=[vector_query],
@@ -276,7 +276,7 @@ def Framework_Recommendation_agent(state: State):
     
     results = []
     for result in search_results:
-        if result['@search.score']>0.8:
+        if result['@search.score']>0.75:
             results.append({'content' : result['frameworkdescchunk'],
                             'Framework_link': f"https://www.crowncommercial.gov.uk/agreements/{result['frameworknumber']}",
                             'Classification': data_classification ,
