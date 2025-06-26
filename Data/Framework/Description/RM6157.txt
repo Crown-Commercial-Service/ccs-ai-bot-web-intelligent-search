@@ -1,0 +1,22 @@
+Framework Name: Building Materials and Equipment
+Framework Number: RM6157
+Category: Construction
+
+Objective: This framework offers UK government departments, devolved administrations, and the wider public sector access to a range of building materials, equipment, and associated services to support construction projects. It aims to promote collaborative working practices by integrating industry and end-users.
+
+Scope:
+- Eligible sectors: UK government departments, devolved administrations, wider public sector
+- Service types:
+  * Heavy and general building materials
+  * Heating and electrical products
+  * Domestic kitchens
+  * Paints and solvents
+  * Flooring
+  * Tool and plant sale and hire
+  * Protective wear
+
+Restrictions: Terms and conditions are governed by the Framework Alliance Contract (FAC-1), which supports merging teams into an alliance to deliver improved results.
+
+Further details available [here](https://www.crowncommercial.gov.uk/agreements/RM6157).
+
+Note: This framework is part of the CCS integrated strategy for construction, which includes three other agreements: Construction Professional Services (RM6165), Modular Buildings (RM6014), and Construction Works and Associated Services (RM6088).

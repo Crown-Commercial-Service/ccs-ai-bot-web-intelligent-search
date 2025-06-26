@@ -1,0 +1,18 @@
+Framework Name: Gigabit Capable Connectivity DPS  
+Framework Number: RM6095  
+Category: Network Services  
+
+Objective: The Gigabit Capable Connectivity DPS aims to ensure UK public sector bodies have access to high-quality, gigabit-capable network services. It facilitates the procurement and supply of broadband connectivity and the infrastructure build necessary for such connectivity.  
+
+Scope: 
+- Eligible Sectors: All UK public sector bodies.
+- Service Types:
+  - Broadband connectivity services: gigabit-capable internet connectivity.
+  - Infrastructure build services: construction of connectivity infrastructure.
+  - Managed infrastructure services: connection maintenance between specific sites.
+
+Restrictions: 
+- Location-based filtering.
+- Accreditation and Standards filtering: Public Services Network (PSN), Health and Social Care Network (HSCN), Cyber Essentials Plus.
+
+URL: [Gigabit Capable Connectivity DPS](https://www.crowncommercial.gov.uk/agreements/RM6095)

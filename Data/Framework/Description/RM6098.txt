@@ -1,0 +1,20 @@
+Framework Name: Technology Products & Associated Services 2  
+Framework Number: RM6098  
+Category: Hardware  
+
+Objective:  
+Technology Products & Associated Services 2 aims to provide UK public sector organizations with easy access to a wide range of technology hardware, software, and associated services. This framework helps equip organizations with essential tech infrastructure, end-user devices, software licenses, and necessary accessories to meet their various technological needs.
+This agreement is in partnership with ESPO (Eastern Shires Purchasing Organisation).
+
+Scope:  
+* Eligible Sectors: All UK public sector organizations  
+* Service Types:
+  - End user devices: laptops, desktops, mobiles, tablets
+  - Technology infrastructure: servers, storage, backup, data centers, network hardware, hubs, routers, switches
+  - Services: installation, data movements, logistics support, product asset management, end user support, tech guidance, and training
+  - Consumables: cabling, connectors, data storage devices, memory sticks
+  - Peripheral equipment: keyboards, mice, screens, monitors, audio-visual equipment
+  - Commercial off the shelf (COTS) software: Microsoft, VMware, Google, Oracle, ServiceNow, antivirus software, Adobe
+
+Restrictions:  
+This agreement runs for 48 months. The length of call-off contracts is flexible, allowing organizations to determine the contract duration.

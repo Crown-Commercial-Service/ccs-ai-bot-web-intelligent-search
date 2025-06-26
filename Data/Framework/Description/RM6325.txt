@@ -1,0 +1,20 @@
+Framework Name: Payment Acceptance 2  
+Framework Number: RM6325  
+Category: Financial Services  
+Objective:  
+Enables the public sector to accept card and alternative payment methods either face to face or through online and digital routes. Provides access to specialist payment consultancy services to assess and strategize payment acceptance and issuance.
+
+Scope:  
+- Eligible sectors: Public sector  
+- Service types:  
+  - Merchant acquiring: Processes payments through networks like Visa and Mastercard  
+  - Payment gateway services: Enables acceptance of payments via website  
+  - Payment equipment: Provision of point of sale (POS) terminals  
+  - Alternative payment methods (APMs): Digital wallets (e.g., Google Pay, Apple Pay)  
+  - Payment initiation service provider (PISP) services: Account-to-account transactions (Open Banking)  
+  - Specialist payment consultancy services
+
+Restrictions:  
+- Agreement has a 4-year contract period.
+
+[Source URL: Payment Acceptance 2: RM6325](https://www.crowncommercial.gov.uk/agreements/RM6325)

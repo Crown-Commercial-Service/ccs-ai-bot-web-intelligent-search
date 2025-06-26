@@ -1,0 +1,29 @@
+Framework Name: Construction Professional Services DPS  
+Framework Number: RM6242  
+Category: Construction  
+
+Objective: The Construction Professional Services DPS provides central government and wider public sector organizations with access to expert professional and technical construction services. This DPS offers a quick, simple, and flexible route to market through an extensive number of suppliers.
+
+Scope:  
+- Eligible Sectors:
+  - Central Government
+  - Wider Public Sector Organizations  
+- Service Types:
+  - Project management
+  - Cost management
+  - Engineering (e.g., civil, structural, electrical)
+  - Architectural and design services
+  - Environmental and sustainability services  
+- Project Types:
+  - New builds
+  - Refurbishment of buildings and infrastructure
+  - Regeneration of urban areas, including upgrading transport links
+  - Alteration and extension of buildings
+  - Conservation and preservation projects
+  - Maintenance works and programs
+  - Design and build of security/counter-terrorism defenses
+  - Demolitions of buildings and infrastructure
+
+Restrictions: Projects must utilize the DPS filter system to find local suppliers. Suppliers must access the supplier bid pack to provide services through this DPS.
+
+URL: [https://www.crowncommercial.gov.uk/agreements/RM6242](https://www.crowncommercial.gov.uk/agreements/RM6242)

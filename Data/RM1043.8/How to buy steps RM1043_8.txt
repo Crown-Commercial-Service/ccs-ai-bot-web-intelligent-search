@@ -1,0 +1,20 @@
+This is a further competition only agreement. There is no option to direct award. Each procurement can only be awarded to a single supplier.
+
+You must publish your requirements (Invitation to Tender) on Contract Award Service (CAS). This is a new service from CCS and can be accessed through your Public Procurement Gateway (PPG) account. All suppliers awarded a place on the agreement, and registered on the platform, will be able to view and respond to your requirements.
+
+For lots 1 and 3 you must follow a two-stage further competition process (stage 1: shortlisting and stage 2: further assessment).
+
+For lot 2 you can follow a one-stage further competition process (having first created a supplier shortlist by filtering against the studio attributes required).
+
+The basic steps to run a further competition for this agreement are:
+
+1. prepare a draft of your requirements
+2. get approval to buy what you need
+3. write and publish your requirements on Contract Award Service
+4. answer supplier questions
+5. review and score ‘essential’ and ‘nice-to-have’ skills and experience to create your shortlist
+6. give feedback to suppliers who are not shortlisted
+7. invite shortlisted suppliers to the further assessment stage
+8. evaluate technical and pricing proposals and your chosen additional assessment methods to find the right supplier for your needs
+9. award a contract and give feedback to unsuccessful suppliers
+10. publish the contract on Contracts Finder

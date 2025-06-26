@@ -1,0 +1,32 @@
+Framework Name: Print Management Services  
+Framework Number: RM6170  
+Category: Hardware  
+
+Objective:  
+To provide fully managed end-to-end print products and services, including bulk printing, direct mail, and secure print services, to all public sector organizations across the UK.
+
+Scope:
+- Eligible Sectors: All public sector organizations
+- Service Types:
+  - Command and house paper services (Lot 1 only)
+  - Bulk printing
+  - Full range of print products (envelopes, labels, folders)
+  - Operational print (brochures, leaflets, business cards, business stationary)
+  - Finishing services (binding, stamping, embossing, laminating)
+  - Direct mail and transactional print services
+  - Alternative formats (easy read, large print, alternative languages, audio, braille)
+  - Secure print services and items
+  - Print stock management and distribution
+  - Pre-production services (content creation, digital asset management, typesetting, proofreading, translation)
+  - Digital solutions and transformation services (email, SMS, website)
+  - Election print and election mailing services
+  - Associated print services (scanning, microfiche, secure shredding, media duplication, part of overall print management service)
+
+Restrictions:
+- Services under RM6071 Print Marketplace framework recommended for customers not needing print management support.
+- Command and house paper services only available through Lot 1.
+- Services not designed to be used separately but as part of an overall print management service.  
+- Agreement duration: 4 years.  
+- Customer call-off contracts: Up to 4 years, may include extensions (e.g., 2+1+1 years).
+
+URL: [Print Management Services RM6170](https://www.crowncommercial.gov.uk/agreements/RM6170)

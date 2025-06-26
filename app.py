@@ -3,7 +3,7 @@ from fastapi.security import APIKeyHeader
 from fastapi.middleware.cors import CORSMiddleware
 from typing import Optional
 from pydantic import BaseModel
-from models.MultiAgnet_model_v2 import MultiAgent_Answering as process_query
+from models.MultiAgnet_model_v3 import MultiAgent_Answering as process_query
 from auth import validate_api_key
 import time
 import uvicorn
@@ -76,4 +76,6 @@ async def health_check():
 
 # if __name__ == "__main__":
 #     uvicorn.run("app:app", host="0.0.0.0", port=8000, reload=True)
+
+# azure deployment command
 # gunicorn -k uvicorn.workers.UvicornWorker app:app --bind=0.0.0.0:8000

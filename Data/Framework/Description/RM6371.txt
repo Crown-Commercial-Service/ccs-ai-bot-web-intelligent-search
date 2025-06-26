@@ -1,0 +1,21 @@
+Framework Name: Print Marketplace 2  
+Framework Number: RM6371  
+Category: Hardware  
+
+Objective:  
+Provide a self-service platform for public sector organisations in the UK to buy printed materials. The platform helps source various business and marketing print needs, offering cost-effective and environmental benefits across multiple suppliers.
+
+Scope:  
+- **Eligible Sectors**: Public sector organisations across the UK  
+- **Service Types**:  
+  - Business cards, flyers, leaflets, brochures  
+  - Forms, newsletters, textbooks, booklets  
+  - Posters, pads, letterheads  
+  - Small direct mail requirements  
+  - Exhibition and display graphics  
+  - Promotional goods, labels, stickers  
+  - Low volume storage and fulfilment services  
+  - Alternative formats (large print, braille)
+
+Restrictions:  
+- The agreement is available for 4 years.

@@ -1,0 +1,22 @@
+Framework Name: Crown Hosting II  
+Framework Number: RM6262  
+Category: Cloud and Hosting  
+
+Objective:  
+Access secure, reliable, and efficient specialist rooms (data halls) and buildings (data centres) to operate your server, network, and security infrastructure (ICT) from. This data centre co-location service ensures that your IT services work on demand and continuously. Designed primarily for UK public sector organisations, it provides cost-effective and environmentally efficient solutions.
+
+Scope:
+- Eligible sectors: UK Public Sector Organisations
+- Service types:
+  - Shared data hall space
+  - Private data halls and data centres
+  - Physical equipment (e.g., racks)
+  - Electricity for ICT operations
+  - Optical network connectivity
+  - Network cabling within data halls and on-site
+  - Setup and operational support
+  - ICT relocation services
+
+Restrictions (if any):
+
+URL: [Crown Hosting II](https://www.crowncommercial.gov.uk/agreements/RM6262)

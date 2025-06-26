@@ -1,0 +1,19 @@
+Framework Name: Purchase of Standard and Specialist Vehicles  
+Framework Number: RM6244  
+Category: Fleet  
+
+Objective: Provides access to a full range of motor vehicles, including both currently available and future models, for central government and the wider public sector. Enables the purchase and customization of standard, converted, and specialist vehicles across diverse requirements and applications.  
+
+Scope:  
+- Eligible Sectors: Central government; Wider public sector  
+- Service Types:  
+  - Standard, converted, and specialist vehicles of all sizes and fuel types (electric, hybrid, hydrogen)  
+  - Light, medium, and heavy commercial vehicles including refuse collection and waste management  
+  - Minibuses, buses, coaches, mobile trailers, and mobile units  
+  - Blue light emergency vehicles and specialized bespoke vehicles  
+  - Conversion services including specification design, body build, testing, and associated maintenance  
+
+Restrictions:  
+- For vehicle leasing, use RM6096 vehicle lease agreement. Suppliers on RM6096 can source vehicles using this purchase framework discount.
+
+URL: [Purchase of Standard and Specialist Vehicles: RM6244](https://www.crowncommercial.gov.uk/agreements/RM6244)

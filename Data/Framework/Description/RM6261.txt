@@ -1,0 +1,21 @@
+Framework Name: Mobile Voice and Data Services
+Framework Number: RM6261
+Category: Network Services
+Objective: Provide UK public sector organisations access to comprehensive mobile voice and data services, including optional and professional services. Enhance communication and data management through secure and integrated solutions.
+
+Scope:
+- Eligible Sectors: All UK public sector organisations
+- Service Types:
+  - UK and international airtime including roaming, calls and short message services (SMS)
+  - Data plans
+  - Device hardware and accessories
+  - Supporting services (e.g., mobile device management and security)
+  - Audit and health check services, including current spend and usage analysis
+  - Professional services (e.g., system and service integration, implementation services, service design consultation)
+  - Security solutions, including enhanced end-to-end software encryption
+
+Restrictions:
+- Agreement length: 2+1+1 format (initial 2 years with two possible 1-year extensions)
+- No restrictions on the duration of call-off contracts, allowing flexibility based on organizational needs.
+
+URL Link: https://www.crowncommercial.gov.uk/agreements/RM6261

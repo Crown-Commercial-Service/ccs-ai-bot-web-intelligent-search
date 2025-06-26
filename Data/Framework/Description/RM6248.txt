@@ -1,0 +1,19 @@
+**Framework Name:** Payment Solutions 2  
+**Framework Number:** RM6248  
+**Category:** Financial Services  
+
+**Objective:**  
+The Payment Solutions 2 agreement enables UK government and wider public sector customers to purchase goods and services using procurement cards and disburse funds via prepaid cards and voucher solutions. It provides an online management system for real-time purchase and fund disbursement management. Bespoke and off-the-shelf solutions are available to suit different needs.
+
+**Scope:**  
+- **Eligible Sectors:** UK government, wider public sector
+- **Service Types:**
+  - Procurement card solutions for purchasing goods and services, including travel
+  - Prepaid card and voucher solutions for fund disbursement
+  - Online management information system
+  - Both off-the-shelf and bespoke solutions (bespoke solutions require further competition)
+
+**Restrictions:**  
+Providers must either have Cyber Essentials Plus accreditation or be progressing towards it with acceptable interim accreditations. Compliance will be monitored continuously, and suppliers must meet specific requirements before entering into a Call-off agreement. The agreement is valid for 3 years with an option for a 1-year extension.
+
+[More Information](https://www.crowncommercial.gov.uk/agreements/RM6248)

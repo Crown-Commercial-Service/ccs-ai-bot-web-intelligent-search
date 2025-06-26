@@ -1,0 +1,27 @@
+**Framework Name**
+Fund Administration & Disbursement Services DPS (FAADS)
+
+**Framework Number**
+RM6322
+
+**Category**
+Financial Services
+
+**Objective**
+FAADS offers public sector buyers comprehensive services to design and administer various fund distribution schemes. These schemes can include grants, loans, entitlement benefits, and hybrid funds. This framework replaces RM6172 and expands the range of available services.
+
+**Scope**
+- **Eligible Sectors**: Public sector
+- **Service Types**: 
+  - Design and development (scheme guidance, IT systems, consultancy)
+  - Market engagement and promotion (marketing, communication, target audience guidance)
+  - Application and award services (administration, payment processing, performance monitoring)
+  - Evaluation services (impact measurement, outcomes evaluation)
+  - Counter fraud services (fraud detection, assurance, risk mitigation)
+  - Full programme management (combination of two or more services)
+
+**Restrictions**
+Cannot be used for distributing free school meals or certain retail vouchers. For these purposes, refer to RM6248 Payment Solutions 2 agreement.
+
+**URL Link**
+[FAADS Agreement](https://www.crowncommercial.gov.uk/agreements/RM6322)

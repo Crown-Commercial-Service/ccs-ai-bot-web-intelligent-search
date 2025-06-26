@@ -1,0 +1,24 @@
+Framework Name: Vertical Application Solutions  
+Framework Number: RM6259  
+Category: Software  
+
+Objective: Public sector customers can access software-focused solutions tailored to their specific industry, business application, or service needs. Solutions include software licenses, associated hardware, app-related consultancy services, software support, and maintenance. This agreement supersedes Data and Application Solutions (DAS) and caters to various public sector entities offering comprehensive software sourcing options.
+
+Scope:  
+- Eligible Sectors:  
+  - Government departments and their arm’s length bodies  
+  - Devolved administrations  
+  - Wider public sector  
+  - Third sector organizations  
+  - Particular consideration for blue light (emergency services), education, local authority, and social care sectors  
+
+- Service Types:  
+  - Implementation, testing, and provision of a range of software solutions  
+  - Access to solution-essential hardware and professional services  
+  - Purchase of cloud-hosted and on-premise software, or a combination of both  
+  - Direct award using digital catalog or further competition depending on complexity  
+
+Restrictions:  
+- Initial duration: 30 months (2.5 years)
+- Option to extend: Additional 18 months (1.5 years)
+- No maximum contract length for call-off contracts.

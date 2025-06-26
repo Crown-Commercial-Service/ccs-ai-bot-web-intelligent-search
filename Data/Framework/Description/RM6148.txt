@@ -1,0 +1,20 @@
+Framework Name: Quality Assurance and Testing for IT Systems 2
+
+Framework Number: RM6148
+
+Category: Digital and Technology Services
+
+Objective: To provide independent quality assurance testing (QAT) services for new digital systems and services to ensure they are suitable for public launch. It leverages a Dynamic Purchasing System (DPS) to facilitate the procurement of these services across the public sector and their associated bodies and agencies.
+
+Scope:
+- Eligible sectors: Whole public sector
+- Service types:
+  - Testing environments
+  - Specialists
+  - Automation
+  - Consultancy services
+
+Restrictions (if any):
+None indicated
+
+URL link: [Quality Assurance and Testing for IT Systems 2 (RM6148)](https://www.crowncommercial.gov.uk/agreements/RM6148)

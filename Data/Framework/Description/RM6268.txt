@@ -1,0 +1,25 @@
+**Framework Name:** Vehicle Lease, Fleet Management and Salary Sacrifice Car Schemes  
+**Framework Number:** RM6268  
+**Category:** Fleet  
+
+**Objective:**  
+This framework enables central government and the wider public sector to lease a variety of passenger cars and commercial vehicles. It includes provisions for fleet management and salary sacrifice car schemes. The goal is to facilitate access to a range of vehicles, including low-emission options, and offer comprehensive fleet management services.
+
+**Scope:**  
+- **Eligible sectors:** Central government, wider public sector  
+- **Service types:**
+  - Leasing passenger cars and commercial vehicles (light, medium, heavy)
+  - Fleet management services
+  - Salary sacrifice car schemes
+  - Access to all fuel types (electric, hybrid, hydrogen)
+  - Quotes through Fleet Portal
+  - Sourcing vehicles (leased, purchased, hired)
+  - Fleet administration tasks
+  - Creation of fleet policies
+  - Support for transitioning to low-emission vehicles
+  - Driver training and risk assessment
+
+**Restrictions (if any):**  
+None specified.
+
+For more information, visit the [framework page](https://www.crowncommercial.gov.uk/agreements/RM6268).

@@ -1,0 +1,20 @@
+Framework Name: Digital Capability for Health  
+Framework Number: RM6221  
+Category: Digital and Technology Services  
+Objective: This agreement, developed in collaboration with NHS Digital, aims to support public health and care organizations by providing digital outcomes and services. It facilitates an agile approach to developing new digital solutions, offers support for existing products and services, and includes data management services for the health sector.
+
+Scope:
+- Eligible sectors: Public health and care organizations
+- Service types:
+  - Development and operations (DevOps) for ongoing minor improvements of live services
+  - Digital definition services through discovery and alpha phases
+  - Build and transition services through beta and live phases
+  - End-to-end development services from discovery to live phases
+  - Data management services including collection, processing, analysis, and management of health data
+
+Restrictions: 
+- The agreement duration is 4 years, with no extension option.
+- Call-off contracts can last up to 2 or 4 years, depending on the services delivered.
+- Option to extend call-off contracts by up to 6 months or 1 year, depending on the initial contract length.
+
+URL: [RM6221 - Digital Capability for Health](https://www.crowncommercial.gov.uk/agreements/RM6221)

@@ -1,0 +1,22 @@
+Framework Name: Big Data and Analytics
+
+Framework Number: RM6195
+
+Category: Software
+
+Objective: This agreement is designed to support the creation of intelligent data and analytics functions across the UK public sector. It provides access to both bespoke professional services and commercial 'off the shelf' software specific to data and analytics.
+
+Scope:
+- Eligible sectors: Central government departments, arm’s length bodies, devolved administrations, wider public sector, third sector organisations
+- Service types:
+  - Niche work packages
+  - Complete data service transformations
+  - New service builds
+  - Related ‘off the shelf’ software services
+  - Advanced analytics and cognitive solutions
+  - Data risking, management, and acquisition
+  - Platform services
+  - Reporting and dashboards
+  - Search and discovery services
+
+Restrictions: Agreement will run for 2 years, with an option to extend by two 1-year periods. Maximum call-off length is 5 years, including the initial term and any subsequent extensions.

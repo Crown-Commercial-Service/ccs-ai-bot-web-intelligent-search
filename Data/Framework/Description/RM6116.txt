@@ -1,0 +1,34 @@
+Framework Name: Network Services 3  
+Framework Number: RM6116  
+Category: Network Services  
+
+Objective:  
+Network Services 3 provides UK public sector organisations access to a comprehensive range of network solutions and emerging technologies, supporting seamless connectivity, communication, and data management. This framework aims to modernize, optimize, and rationalize network infrastructure and services within the modern hybrid workspace.  
+
+Scope:  
+- Eligible Sectors: All UK public sector organisations  
+- Service Types:
+  - Traditional core network infrastructure and public internet connectivity
+  - Local area network products and services
+  - Fibre optic cabling
+  - 5G network solutions
+  - Internet access
+  - Unified communications (voice, video, data services)
+  - Internet Protocol (IP) Telephony
+  - Cloud services
+  - Audio and video conferencing
+  - Satellite networking
+  - Maintenance and support
+  - Contact centre services
+  - Security and surveillance
+  - Professional services for network solutions design, installation, and management
+  - IoT and Smart Technologies
+  - Tactical radio products and services
+  - Critical domain services
+  - Communication platform as a service  
+
+Restrictions:  
+- Agreement length is 2+1+1 years (initial 2 years with the option for two additional 12-month extensions)
+
+[URL to Framework](https://www.crowncommercial.gov.uk/agreements/RM6116)  
+Contract notice available on Contracts Finder.

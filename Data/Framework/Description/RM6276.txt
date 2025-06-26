@@ -1,0 +1,40 @@
+Framework Name: Insourced Services to Support the Provision of Healthcare (including Clinical Insourcing)
+
+Framework Number: RM6276
+
+Category: HR and Workforce Services
+
+Objective:
+NHS and other public sector organisations can procure insourced services to deliver comprehensive healthcare services, ensuring efficiency and cost-effectiveness. This includes solutions for various medical specialties such as diagnostics, cardiology, ophthalmology, and physiotherapy carried out on-site using existing equipment.
+
+Scope:
+- Eligible Sectors: 
+  - NHS foundation trusts
+  - NHS trusts
+  - Special health authorities
+  - Acute sector (e.g., hospitals)
+  - Mental health settings
+  - Community health and ambulance services
+  - Care trusts
+  - Clinical Commissioning Groups
+  - Integrated Care Systems
+  - Community Interest Companies
+  - GPs
+
+- Service Types:
+  - Cardiology diagnostics
+  - Diagnostic imaging
+  - Endoscopy
+  - Ear, nose, and throat treatments
+  - General surgery
+  - Gynaecology
+  - Ophthalmology
+  - Orthopaedics
+  - Physiotherapy
+  - Urology
+  - Full or partial patient pathway management
+
+Restrictions:
+- Initial agreement period of 2 years with options for two 1-year extensions.
+  
+URL: [CCS RM6276](https://www.crowncommercial.gov.uk/agreements/RM6276)

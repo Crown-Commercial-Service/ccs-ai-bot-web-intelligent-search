@@ -1,0 +1,14 @@
+**Framework Name: HSCN Access Services DPS**
+**Framework Number: RM3825**
+**Category: Network Services**
+
+**Objective:**  
+Provide access to the Health and Social Care Network (HSCN) for data sharing including support for transition and implementation. The HSCN enables health and social care services to share information reliably, flexibly, and efficiently.
+
+**Scope:**
+- Eligible Sectors: Health, social care, and related organizations
+- Service Types: Data network access, support for transition, implementation support
+
+**Restrictions:**  
+Suppliers must register through the Dynamic Purchasing System (DPS).  
+[Agreement Link](https://www.crowncommercial.gov.uk/agreements/RM3825)

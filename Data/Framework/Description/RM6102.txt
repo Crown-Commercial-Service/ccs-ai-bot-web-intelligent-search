@@ -1,0 +1,14 @@
+Framework Name: Apprenticeship Training Dynamic Marketplace DPS  
+Framework Number: RM6102  
+Category: HR and Workforce Services  
+
+Objective:  
+Provides access to diverse apprenticeship training programmes compliant with Education and Skills Funding Agency (ESFA) rules. It empowers departments and public sector bodies to choose their contractors freely. The agreement facilitates using apprenticeship levy funds for services.  
+
+Scope:  
+- Eligible sectors: public sector organisations (central government departments, agencies, public bodies, wider public sector, charities)
+- Service types: generic and bespoke apprenticeship training courses, learners' end-point assessments (can be bought separately or as part of training), classroom, workplace, online training, or a combination thereof
+- Geographic coverage: primarily England, optional additional requirements for Scotland, Wales, Northern Ireland  
+
+Restrictions:  
+All suppliers must be registered with the Education and Skills Funding Agency (ESFA). Current ESFA funding rules apply.

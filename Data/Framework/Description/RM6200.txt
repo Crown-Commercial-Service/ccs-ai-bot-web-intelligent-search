@@ -1,0 +1,19 @@
+Framework Name: Artificial Intelligence (AI)
+Framework Number: RM6200
+Category: Software
+
+Objective:
+The aim of this framework is to provide discovery and consultancy services, implementation and support, and end-to-end partnerships in the field of artificial intelligence (AI) for public sector organizations and their associated bodies and agencies. It offers a Dynamic Purchasing System (DPS) to help organizations at various stages of AI adoption procure relevant services and technologies.
+
+Scope:
+- Eligible sectors: health and social care, blue light services, central government, devolved administrations, local government, and not-for-profit organizations.
+- Service types include: 
+  - AI software applications
+  - Machine learning for data analytics
+  - Intelligent virtual assistants and personal assistants
+  - Medical imaging software
+  - Non-imaging diagnostic software
+  - Symptom-based software
+
+Restrictions:
+Contracts under this framework can range up to four years, adjusted according to the complexity of the project.

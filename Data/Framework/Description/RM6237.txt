@@ -1,0 +1,26 @@
+Framework Name: Low Value Purchase System
+Framework Number: RM6237
+Category: Low Value
+
+Objective: The agreement facilitates the acquisition of low-cost, low-value, and uncomplicated common goods and services. It specifically targets SMEs and VCSE suppliers to streamline procurement within the public sector. The value of contracts procured under this agreement must not exceed limits set by Procurement Policy Note 11/23.
+
+Scope:
+- Eligible Sectors: Public sector, including associated bodies and agencies
+- Service Types: Wide range of goods and services including but not limited to:
+  - Agricultural products and machinery
+  - Petroleum products, fuel, electricity
+  - Electrical machinery and consumables
+  - Security and fire-fighting equipment
+  - Industrial machinery
+  - Food and beverages
+  - Clothing and textiles
+  - Installation services
+  - Transport services
+  - Education and training services
+  - Permanent recruitment and contingent labor
+  - Recreational and cultural services
+  - IT services and support
+
+Restrictions: The agreement has been established under Part 4 of the Public Contracts Regulations 2015. Suppliers can apply to join at any time. Contracts must be below the relevant thresholds for Part 2 of the Public Contracts Regulations 2015. Direct award must comply with corporate procurement policy.
+
+URL: [Low Value Purchase System RM6237](https://www.crowncommercial.gov.uk/agreements/RM6237)

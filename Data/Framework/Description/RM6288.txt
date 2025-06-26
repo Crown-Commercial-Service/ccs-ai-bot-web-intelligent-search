@@ -1,0 +1,20 @@
+Framework Name: Workforce Solutions  
+Framework Number: RM6288  
+Category: HR and Workforce Services  
+Objective: Workforce Solutions provides public sector organisations with access to professional, managerial, operational, and administrative contractors and temporary workers through a single managed service provider (MSP). The framework aims to help organisations meet their business goals and workforce needs effectively.
+
+Scope:
+- Eligible Sectors: All public sector organisations
+- Service Types:
+  - Temporary worker sourcing (hourly/daily rates)
+  - Statements of work (SOW)
+  - Recruit-train-deploy (RTD)
+  - Permanent recruitment (fixed-term and internal secondment roles)
+  - Resource augmentation partnering (employed resource model)
+  - Recruitment campaign services (later date addition)
+
+Restrictions:
+- Permanent recruitment, resource augmentation partnering, and campaign services will not be available at the agreement start.
+- The agreement will run for 6 years, with an 18-month transition period during which new customers cannot join but existing contracts can continue. 
+
+URL: [Workforce Solutions: RM6288](https://www.crowncommercial.gov.uk/agreements/RM6288)

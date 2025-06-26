@@ -1,0 +1,29 @@
+Framework Name: Digital Specialists and Programmes  
+Framework Number: RM6263  
+Category: Digital and Technology Services  
+
+Objective:  
+Support full range of Digital, Data, and Technology (DDaT) skills for digital transformation and capability projects. Provide individual DDaT staff to integrate into existing or new teams. Facilitate rethinking technology, people, or processes to create new business models or revenue streams.
+
+Scope:  
+- Eligible Sectors: Public sector  
+- Service Types:  
+  - Redesigning existing services  
+  - Designing new services  
+  - Building mobile applications or eCommerce platforms  
+  - User research  
+  - Service design   
+  - Building and supporting services  
+
+Restrictions:  
+- Excludes standalone hosting, support, and maintenance of live applications or websites.  
+- Does not support supplementing temporary staff shortfalls with no clear deliverables.  
+- Non-DDaT roles are out of scope.  
+- Not for interim or contingent labour usage.
+
+Alternative frameworks for management consultancy or interim staff:
+- Public Sector Resourcing  
+- Management Consultancy Framework 3  
+- Non Clinical Temporary and Fixed Term Staff  
+
+For further information, visit [Crown Commercial Service](https://www.crowncommercial.gov.uk/agreements/RM6263).

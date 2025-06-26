@@ -1,0 +1,15 @@
+Framework Name: Provision of Power Purchase Agreement  
+Framework Number: RM6289  
+Category: Energy  
+
+Objective:  
+This framework provides central government and the wider public sector access to renewable electricity through long-term contracts with suppliers. It allows organizations to purchase renewable electricity directly from specific energy projects, aiding in meeting carbon net-zero targets.
+
+Scope:  
+- Eligible sectors: Central government, wider public sector  
+- Service types: 
+  - Group buying power through aggregation to secure competitive prices  
+  - Long-term agreements, typically lasting between 5 and 15 years  
+  - Flexible contract types primarily set up for pay-as-produced electricity  
+
+Restrictions: N/A

@@ -1,0 +1,19 @@
+Framework Name: Outsourced Contact Centre and Business Services  
+Framework Number: RM6181  
+Category: Outsourced Services  
+
+Objective:  
+The RM6181 agreement offers organisations access to outsourced contact centre solutions, inclusive of advanced technologies like Robotic Process Automation (RPA) and Artificial Intelligence (AI). It supports streamlined processes and enhanced value from Enterprise Resource Planning (ERP) systems, making it ideal for efficient back-office function management as well.
+
+Scope:
+- Eligible sectors: All central government departments, arm’s length bodies, devolved administrations, the wider public sector, third sector organisations
+- Service types: 
+  - Contact centre solutions: inbound/outbound contact, web chat, social media, online services, voice/agent contact
+  - Business services: HR, source-to-pay, payroll, financial accounting
+  - Transformational consultancy: Support for modernising interactions with citizens and industry (available only as part of the service package)
+
+Restrictions: 
+- Transformational Consultancy is only available as part of the overall service package.
+- The agreement period is 4 years with a recommended call-off term of up to 7 years, though there is no minimum call-off length.
+
+For more information, visit: [CCS RM6181](https://www.crowncommercial.gov.uk/agreements/RM6181)

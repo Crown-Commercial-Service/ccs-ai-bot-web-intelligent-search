@@ -1,0 +1,26 @@
+When you cant you the RM1043.8 (Digital Outcomes 6) agreement. 
+
+Products and services that are out of scope include (but are not limited to):
+
+standalone hosting, support and maintenance of a live application or website
+supplementing a temporary shortfall in staff with no clear deliverables (who might work across projects under the direction of the buyer)
+any non-digital role, or a role where there are no clear deliverables
+DOS 6 is not a route to market for contingent labour (contractors or interim staff). 
+
+For contingent labour requirements you will need to use Public Sector Resourcing.
+
+To access management consultancy services, including business, strategy and policy and finance consultancy you will need to use Management Consultancy Framework Three (MCF3).
+
+Where the requirement is for individual DDaT specialists with identified/fixed deliverables or specific pieces of work use Digital Specialists and Programmes lot 2.
+
+For support with the setup and maintenance of cloud software or hosting services use G-Cloud 13.
+
+For the delivery of larger digital transformation programmes or capability based services covering a number of projects under an overarching set of objectives use Digital Specialists and Programmes lot 1.
+
+Where the requirement is for digital capability based services for the public health and social care sectors use Digital Capability for Health.
+
+For major service transformation programmes which require hosting, support and maintenance of new or existing platforms use Technology Services 3.
+
+To provide independent quality assurance and testing (QAT) of a designed solution use Quality Assurance and Testing for IT Systems 2.
+
+For an independent health check of IT systems use Cyber Security Services 3.

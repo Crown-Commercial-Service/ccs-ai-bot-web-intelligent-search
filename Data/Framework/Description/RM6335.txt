@@ -1,0 +1,13 @@
+Framework Name: Digital & Legacy Application Services  
+Framework Number: RM6335  
+Category: Digital and Technology Services
+
+Objective: Access suppliers who provide IT digital and legacy application services (DALAS) to support the rollout of future applications, reducing dependency on legacy technologies.
+
+Scope:
+- Eligible sectors: Central government departments, local authorities, health, police, fire and rescue, education, devolved administrations, and other UK public sector bodies
+- Service types: IT digital services for developing and implementing future applications, transition to non-legacy application support models
+
+Restrictions: None  
+
+[Learn more](https://www.crowncommercial.gov.uk/agreements/RM6335)

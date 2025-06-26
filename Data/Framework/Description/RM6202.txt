@@ -1,0 +1,21 @@
+Framework Name: Tail Spend Solution  
+Framework Number: RM6202  
+Category: Low Value  
+
+Objective: 
+Provides public sector organizations with an end-to-end management service for products classified as tail spend, which are typically low-complexity and ad-hoc purchases. It aims to control and make these expenditures visible to avoid significant budget pressures and inefficiencies. 
+
+Scope:
+- Eligible Sectors: All public sector organizations
+- Service Types: 
+  - Digital buying platform with social value criteria filtering 
+  - Supply chain management from procurement to payment 
+  - Buyer registrations and spend management information services 
+  - Permissions and approval settings within hierarchical structures
+
+Restrictions:
+- Maximum contract length is 4 years, plus the implementation period where appropriate.  
+- Dynamic and pre-vetted supplier base adapts to market demands. 
+- Two suppliers available: Unite (Mercateo UK Limited) and Paragon Customer Communications (London) Limited (Office Depot).
+
+[URL](https://www.crowncommercial.gov.uk/agreements/RM6202)

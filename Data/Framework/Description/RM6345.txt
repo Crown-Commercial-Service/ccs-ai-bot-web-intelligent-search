@@ -1,0 +1,20 @@
+Framework Name: Digital Capability for Health 2  
+Framework Number: RM6345  
+Category: Digital and Technology Services  
+
+Objective: This agreement enables public sector organizations to find suppliers who can create and maintain digital services for health and care. It provides access to suppliers that support application development and management service requirements for public health and care programs.
+
+Scope:
+- Eligible Sectors: Public health and care
+- Service Types:
+  - Development operations (DevOps) services for ongoing live services
+  - Digital definition services for progressing projects through discovery and alpha phases
+  - Build and transition services adhering to GDS and NHS service standards in beta and live phases
+  - End-to-end development services from discovery to live phases
+  - Data management services including data collection, processing, analysis, and management
+
+Restrictions:
+- Agreement term: Initial term of 3 years, with an option to extend for an additional 12 months
+- Call-off contracts: Maximum length of 3 years, with options to extend for two additional 12-month periods.  
+
+For more information on GDS project phases, refer to the [phases of an agile project](https://www.crowncommercial.gov.uk/agreements/RM6345).

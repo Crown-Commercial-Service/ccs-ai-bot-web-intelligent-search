@@ -1,0 +1,16 @@
+Framework Name: Language Services  
+Framework Number: RM6302  
+Category: Professional Services  
+Objective: Provides innovative language services designed to meet the public sector’s core needs, including translation, transcription, and interpreting. Employs technological solutions like Machine Translation and Automated Speech Recognition for efficient service delivery across the UK.  
+
+Scope:
+- Eligible sectors: Public sector, Third sector
+- Service types: 
+  - Translation (written, spoken, and visual)
+  - Transcription (including stenography and real-time transcription)
+  - Interpreting (spoken, British Sign Language, remote, and overseas)
+
+Restrictions:
+- Lot 2 does not support visual or tactile requirements like Braille or In-vision BSL.
+  
+URL: [Language Services Agreement](https://www.crowncommercial.gov.uk/agreements/RM6302)

@@ -1,0 +1,24 @@
+**Framework Name:** Cloud Compute 2  
+**Framework Number:** RM6292  
+**Category:** Cloud and Hosting  
+
+**Objective:**  
+Cloud Compute 2 aims to provide central government and wider public sector organizations with access to comprehensive cloud computing services, including Platform-as-a-Service (PaaS) and Infrastructure-as-a-Service (IaaS). The framework facilitates both direct and reseller-supported access to core and ancillary cloud services to support various organizational needs.
+
+**Scope:**  
+- **Eligible sectors:** Central government, wider public sector organizations  
+- **Service types:**  
+  - **Core services:**
+    - Platform-as-a-Service (PaaS)
+    - Infrastructure-as-a-Service (IaaS)
+    - Microservices for usage, security, governance, optimization, and management  
+  - **Ancillary services:**
+    - Optimized billing and administration
+    - 'FinOps' tooling
+  - **Professional support services:**
+    - Consultancy and enterprise support for cloud planning, adoption, or maximization
+
+**Restrictions:**  
+This agreement will run from 28 November 2023 for 3 years and will end in 2027, with the option to extend by up to 1 year.  
+
+*URL link for more information:* [Cloud Compute 2 RM6292](https://www.crowncommercial.gov.uk/agreements/RM6292)

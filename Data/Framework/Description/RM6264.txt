@@ -1,0 +1,11 @@
+Framework Name: Facilities Management and Workplace Services DPS  
+Framework Number: RM6264  
+Category: Facilities Management  
+
+Objective: This agreement enables public sector customers to acquire a broad range of facilities management and workplace services. It complements the RM6232 Facilities Management (FM) and Workplace Services agreement by offering additional service options. The agreement aims to streamline procurement for central government, wider public sector, and third sector customers.
+
+Scope:
+- Eligible sectors: central government, wider public sector, third sector
+- Service types: catering services, cleaning services, defence end-user accommodation services, helpdesk services, landscaping services, maintenance services, miscellaneous FM services, security services, smart FM solutions including Computer Aided Facility Management (CAFM), specialist defence FM services, statutory obligations/compliance services, visitor support services, waste services
+
+Restrictions: The maximum order contract length is 120 months (10 years), including any extension periods. Suppliers must register first to join the DPS and comply with all guidelines outlined in the ‘read first RM6264 DPS needs v1.0’ document.

@@ -1,0 +1,43 @@
+Framework Name: Learning and Training Services DPS  
+Framework Number: RM6219  
+Category: HR and Workforce Services  
+
+Objective:  
+Provides access to standard and niche training options from a large group of pre-qualified training providers in one place. This Dynamic Purchasing System (DPS) is aimed at enhancing the professional and personal development of the UK public sector, wider public sector, and third sector organizations.
+
+Scope:  
+- Eligible sectors:  
+  - Local government  
+  - Combined authorities  
+  - NHS and health sector  
+  - Police, fire and rescue  
+  - Housing associations  
+  - Charities  
+  - Education sector  
+  - Devolved administrations  
+  - Central government departments (subject to Cabinet Office learning and development spend control guidance)  
+
+- Service types:  
+  - Business skills  
+  - Coaching and mentoring  
+  - Health and safety  
+  - Digital, data and technology  
+  - Financial services  
+  - Languages  
+  - Leadership and management  
+  - Legal and compliance  
+  - Learning Management System (LMS) software  
+  - LMS design, delivery and content  
+  - NHS clinical  
+  - NHS non-clinical  
+  - NHS Continuous Professional Development (CPD)  
+  - Project and programme management  
+  - Specialist / niche training  
+  - Wellbeing  
+  - Standard off-the-shelf training  
+  - Bespoke training  
+  - Learning technologies  
+  - Education services  
+
+Restrictions:  
+Central government departments must consider the Cabinet Office learning and development spend control guidance before use. The agreement is part of the Workforce Alliance portfolio for NHS customers.

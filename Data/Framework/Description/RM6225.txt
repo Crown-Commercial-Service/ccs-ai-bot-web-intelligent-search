@@ -1,0 +1,22 @@
+Framework Name: Audio Visual Technical Consultancy & Commissioning  
+Framework Number: RM6225  
+Category: Network Services  
+
+Objective:  
+This Dynamic Purchasing System (DPS) facilitates complex audio visual (AV) services for public sector customers. It supports transforming rooms into advanced AV spaces that ensure seamless collaboration and interoperability. Services can be customized to design, install, and maintain AV technology in workspaces.
+
+Scope:
+- Eligible Sectors: UK government and public sector bodies
+- Service Types:
+  - Design meeting spaces for equitable participation (virtual/in-person)
+  - Create collaboration zones with integrated AV technology
+  - Design acoustic and visual plans for conference rooms
+  - Monitor and provide support for AV areas
+  
+Restrictions: 
+- Agreement duration is three years, with a possible extension of one year
+- Utilize postcode and service-specific filters to select appropriate suppliers
+- Filters include:
+  - AV Design Consultancy
+  - AV Integration, Installation, and Warranty
+  - AV Solution Support
