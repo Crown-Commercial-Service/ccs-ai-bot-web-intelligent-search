@@ -537,7 +537,7 @@ def MultiAgent_Answering(query):
     answer_html = state.get("output", "No HTML response generated")
     framework_numbers = state.get("framework_numbers", [])
     
-    # log_query_to_blob_v2(query, answer, query_classification)
+    log_query_to_blob_v2(query, answer, query_classification)
     return answer, answer_html, framework_numbers
 
 
