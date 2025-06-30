@@ -1,0 +1,23 @@
+Framework Name: Multifunctional Devices (MFDs), Print and Digital Workflow Software Services and Managed Print Service Provision  
+Framework Number: RM6174  
+Category: Hardware  
+
+Objective:  
+Provides access to multifunctional devices, managed print services, technical resources, digital workflow, and cloud solutions for digital transformation. This agreement aims to replace and enhance device management, reduce print volumes, and integrate advanced digital workflow solutions for more efficient business processes.
+
+Scope:  
+- Eligible sectors: UK-wide public and private sectors  
+- Service types:  
+  - Multifunctional Devices (MFDs)  
+  - Print management software to monitor and reduce waste  
+  - Managed print services  
+  - Workflow integration for document management (including records management and hybrid mail)  
+  - Print consultancy services (specifications drafting, tender evaluation, independent audits)  
+  - Interim technical support resources  
+  - Cloud-based hosting (SaaS, PaaS, IaaS)
+
+Restrictions:  
+- Access to specifications, pricing models, and lease information requires contacting the CCS customer service centre  
+- Information is official-sensitive and subject to a disclaimer for conditions of use
+
+URL: [https://www.crowncommercial.gov.uk/agreements/RM6174](https://www.crowncommercial.gov.uk/agreements/RM6174)

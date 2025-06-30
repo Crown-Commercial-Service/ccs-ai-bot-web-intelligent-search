@@ -1,0 +1,17 @@
+Framework Name: Legal Services Panel
+Framework Number: RM6179
+Category: Professional Services
+Objective: The Legal Services Panel agreement offers general and complex legal advice and services to central government. It aims to streamline the procurement process for a wide range of commonly needed legal areas, including contracts, dispute resolution, real estate, and corporate finance.
+
+Scope:
+- Eligible Sectors: Central government departments and executive agencies
+- Service Types:
+  - General legal advice and services (Lot 1)
+  - Finance and complex legal services (Lot 2)
+  - Specialized legal areas including contracts, dispute resolution, corporate finance, employment law, high-value M&A, intellectual property, public procurement, real estate, rescue and insolvency, innovative and complex projects, and public inquiries
+  
+Restrictions: 
+- Suppliers provide services primarily under English and Welsh law, but may also offer advice on Scots, Northern Irish, and international law.
+- Call-off contracts must expire no later than 2 years after the agreement end date.
+
+Website: [Legal Services Panel RM6179](https://www.crowncommercial.gov.uk/agreements/RM6179)

@@ -1,0 +1,28 @@
+Framework Name: Back Office Software 2
+
+Framework Number: RM6285
+
+Category: Software
+
+Objective: The Back Office Software 2 framework provides public sector organizations with access to Software as a Service (SaaS) solutions for back office applications. The framework supports deployment in various environments including cloud, on-premise, and hybrid. It aims to enhance organizational efficiency through improved software solutions.
+
+Scope:
+- Eligible Sectors: All public sector organizations
+- Service Types:
+  - Enterprise Resource Planning (ERP)
+  - Human Capital Management (HCM)
+  - Customer Relationship Management (CRM)
+  - Finance systems
+  - Procurement and sourcing portals
+  - Workflow technologies
+  - Content management
+  - Installation, implementation, and configuration of software
+  - Consultancy (application design, systems architecture, data migration)
+  - Service desk
+  - Cloud, on-premise, or hybrid solutions
+  - Data handling and validation
+  - Integration
+
+Restrictions: None
+
+URL link: [https://www.crowncommercial.gov.uk/agreements/RM6285](https://www.crowncommercial.gov.uk/agreements/RM6285)

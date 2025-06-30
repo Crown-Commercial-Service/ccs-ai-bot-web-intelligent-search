@@ -1,0 +1,23 @@
+Framework Name: Digital and IT Professional Services (DIPS)
+
+Framework Number: RM6249
+
+Category: Digital and Technology Services
+
+Objective: Enables access to professional service requirements and recruitment of digital and IT resources, exclusively for MOD customers, under the UK Defence and Security Public Contracts Regulations 2011 (DSPCR 2011). The agreement supports a variety of project needs with flexible lot structures, facilitating tailored short, medium, or long-term call-off contracts.
+
+Scope:
+- Eligible Sectors: Ministry of Defence (MOD)
+- Service Types:
+  - Digital and IT professional services
+  - Recruitment of digital and IT resources
+  - Capability and skills provision across the full IT spectrum
+
+Restrictions:
+- Available only for MOD use
+- Restricted to separate call-offs within each lot
+- No multi-lot approach for single call-offs
+- Agreement duration: Up to 4 years, with call-off contracts of any duration
+- No extensions available
+
+For more information: [DSP DIPS Framework SharePoint Page](https://www.crowncommercial.gov.uk/agreements/RM6249)

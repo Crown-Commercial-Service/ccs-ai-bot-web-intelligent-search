@@ -1,0 +1,11 @@
+Cloud Compute 2: RM6292 
+ this greement belongs to Cloud and Hosting category. 
+ All central government and wider public sector organisations can access cloud computing services. Includes Platform-as-a-Service (PaaS), Infrastructure-as-a-service (IaaS) and other additional ancillary services..
+ url link: https://www.crowncommercial.gov.uk/agreements/RM6292 
+ These are the benefits: These are the benefits of the Cloud Compute 2 agreement. 
+robust terms and conditions that reduce the need for long negotiations and meets central government commercial policy requirements
+terms and conditions tailored for hyperscale (very large public cloud platforms) services which ensures better protection and understanding
+direct award and further competition routes to market which allows for savings in time and money
+flexibility in the services that suppliers may offer, ensuring that the latest services are always available to you
+reduces the need for you to buy hyperscale compute services every 2 years through G-Cloud, honouring your 3-year commitments
+compliance with the Procurement Policy Note 06/20: ‘Taking account of Social Value in the award of central government contracts’

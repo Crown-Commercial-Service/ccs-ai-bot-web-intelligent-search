@@ -1,0 +1,18 @@
+Framework Name: Records Information Management, Digital Solutions and Associated Services  
+Framework Number: RM6175  
+Category: Hardware  
+
+Objective: This agreement enables public sector organizations to access storage, scanning, shredding, and disposal services, as well as support for transitioning to digital solutions, including digital workflow and cloud. It aims to reduce physical records, assist in digital transformation, and support the Government Hubs program. It also provides interim technical resources to enhance internal capabilities.
+
+Scope:
+- Eligible Sectors: All public sector organizations, including central government and NHS
+- Service Types:
+  - Physical storage, scanning, and shredding
+  - Planning, design, and transition to digital records solutions via workflow and cloud
+  - Interim technical resources (e.g., security architects, project managers)
+  - Services for NHS clinic preparation
+  - Support for transferring records under the Public Records Act 30/20 year rule
+  
+Restrictions: The agreement is valid for 4 years, but customer call-offs can last up to 7 years. The expiry date for all 5 lots is 22 March 2025.  
+
+URL: [Records Information Management, Digital Solutions and Associated Services](https://www.crowncommercial.gov.uk/agreements/RM6175)

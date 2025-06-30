@@ -1,0 +1,9 @@
+Open Banking (Data, Digital Payments & Confirmation of Payee Services) DPS: RM6301 
+ this greement belongs to Financial Services category. 
+ All central government departments and UK public sector bodies can access open banking related tools and services..
+ url link: https://www.crowncommercial.gov.uk/agreements/RM6301 
+ These are the benefits: These are the benefits of the Open Banking (Data, Digital Payments & Confirmation of Payee Services) DPS agreement. 
+open banking will reduce customer transaction costs where card payments are the existing and only method of payment
+payments can be made directly from bank account to bank account without the need to repeatedly input details
+existing customers of the Payment Acceptance framework can transition to Open Banking
+includes real time bank account data to confirm payee account details reducing the risk of error payments and minimising losses due to fraud

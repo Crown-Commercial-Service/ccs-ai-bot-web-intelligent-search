@@ -1,0 +1,19 @@
+Framework Name: Automation Marketplace DPS    
+Framework Number: RM6173    
+Category: Software    
+
+Objective: This agreement provides intelligent automation services and solutions, including technologies, consultancy, services, and licences, aimed at streamlining processes and systems for public sector customers.
+
+Scope:
+- Eligible Sectors: Public sector, associated bodies, and agencies
+- Service Types:
+  - Strategy and business transformation
+  - Problem solving with tech solutions
+  - Resources and training
+  - Software licences
+
+Restrictions:
+- Out of scope: 
+  - Hardware and infrastructure
+  - Hosting
+  - Networks or connectivity services

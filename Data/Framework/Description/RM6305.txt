@@ -1,0 +1,24 @@
+Framework Name: National Fuels 3  
+Framework Number: RM6305  
+Category: Energy  
+
+Objective: National Fuels 3 provides public sector customers access to liquid fuels, heating oil, and automotive fuels. It also includes services associated with fuel usage such as biomass, tank maintenance, and energy bureau services.
+
+Scope:
+- Eligible sectors: UK public sector organizations, including central government departments and their agencies, the wider public sector, and charities  
+- Service types: 
+  - Heating oil (kerosene)  
+  - Transport fuel (diesel and petrol)  
+  - Liquid petroleum gas (LPG) in cylinders  
+  - Liquified natural gas (LNG)  
+  - Biomass  
+  - Fuel tank replacement  
+  - Fuel tank maintenance  
+  - Fuel testing
+
+Restrictions:
+- Suppliers provide fuel by regional postcodes (lots 1A to 1N) and a national lot (1O)
+- 4-year duration with no extension option
+- Contracts can run for up to 4 years from the start date
+
+URL: [National Fuels 3 Agreement](https://www.crowncommercial.gov.uk/agreements/RM6305)

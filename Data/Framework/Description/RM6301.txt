@@ -1,0 +1,20 @@
+Framework Name: Open Banking (Data, Digital Payments & Confirmation of Payee Services)
+
+Framework Number: RM6301
+
+Category: Financial Services
+
+Objective: 
+The Open Banking (Data, Digital Payments & Confirmation of Payee Services) DPS aims to provide UK public sector bodies with tools and services that facilitate open banking. It offers an alternative method for paying and receiving money, reducing reliance on card payments.
+
+Scope:
+- Eligible sectors: Central government departments, UK public sector bodies
+- Service types:
+  - Payment Initiation Service Providers (PISPs): Allow direct payments from bank accounts
+  - Account Information Service Providers (AISPs): Access bank account data with consent
+  - Filters available include service type, total contract value, and hosting and delivery capabilities
+
+Restrictions:
+- The Dynamic Purchasing System (DPS) will run for 8 years.
+
+URL link: [Open Banking (Data, Digital Payments & Confirmation of Payee Services) DPS - RM6301](https://www.crowncommercial.gov.uk/agreements/RM6301)

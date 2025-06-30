@@ -1,0 +1,17 @@
+**Framework Name**: Fuel Cards and Associated Services VI  
+**Framework Number**: RM6186  
+**Category**: Financial Services  
+
+**Objective**:  
+Fuel Cards and Associated Services VI allows public sector organisations to purchase vehicle fuel using a fuel card at service stations and fuel stations across regional, nationwide, and European locations. This framework aims to simplify fuel expenses and administration while providing detailed management information to monitor and control fuel expenditure. It also supports carbon emission tracking for developing carbon reduction plans.
+
+**Scope**:
+- Eligible Sectors: All public sector organisations
+- Service Types:
+  - Purchase of vehicle fuel at various locations
+  - Monthly consolidated management information reports
+  - Allocation of fuel cards to vehicles and/or drivers
+  - Carbon emissions reporting 
+
+**Restrictions**:
+- Agreement duration: 4 years with an option to extend for an additional year

@@ -1,0 +1,22 @@
+Framework Name: Space-Enabled and Geospatial Services  
+Framework Number: RM6235  
+Category: Network Services  
+
+Objective:
+The Space-Enabled and Geospatial Services framework is designed to enhance the efficiency and capability of public sector services in alignment with the UK National Space Strategy and Geospatial strategy. It offers a Dynamic Purchasing System (DPS) that facilitates access to remote geospatial, locational, communication, and sensing solutions. Through this framework, users can obtain both standard and bespoke services tailored to their specific needs.
+
+Scope:
+Eligible Sectors:
+- Public sector
+
+Service Types:
+- Data products (e.g., aerial photography, demographic monitoring)
+- Remote sensing/monitoring services (e.g., satellite or UAV platforms)
+- UAV platform products (e.g., drones, counter drone technology)
+- Process and workforce transformation solutions (e.g., satellite earth-observation services)
+- Broadcast/communications services (e.g., broadband internet, voice communication)
+- Professional services (service design, operations support, training, consultancy)
+- Digital applications/services (e.g., interactive maps, geospatial data integration)
+
+Restrictions:
+Per the framework, there are no explicit restrictions detailed within the provided information.

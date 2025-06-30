@@ -1,0 +1,27 @@
+Framework Name: Leasing and Loan Finance DPS  
+Framework Number: RM6120  
+Category: Financial Services  
+
+Objective:  
+This DPS facilitates access to funding for government and public sector bodies seeking to acquire assets. It provides a variety of financing options, including leasing and asset-secured loans. It connects customers to a range of lenders for efficient asset acquisition financing.
+
+Scope:
+- Eligible Sectors:
+  - Central government
+  - Ministry of Defence
+  - Local authorities
+  - Health
+  - Education
+  - Other public sectors
+
+- Service Types:
+  - Hire purchase (asset ownership after installment payment completion)
+  - Finance lease (lender retains legal ownership during lease)
+  - Operating lease (temporary asset use without ownership transfer)
+  - Sale and leaseback (asset is sold and leased back from the buyer)
+  - Asset-secured loans (asset used as collateral)
+
+Restrictions:  
+Fleet financing requiring Contract Hire must use the Vehicle Lease, Fleet Management & Flexible Rental Solutions agreement (RM6096). Property financing is not eligible. Asset value must be a minimum of £2000, with no maximum limit applied.
+
+For further details, refer to the agreement specification through the provided URL: [Leasing and Loan Finance DPS RM6120](https://www.crowncommercial.gov.uk/agreements/RM6120).

@@ -1,0 +1,21 @@
+**Framework Name:** Insurance Services 3 DPS  
+**Framework Number:** RM6138  
+**Category:** Financial Services  
+
+**Objective:**  
+To provide access to a complete range of suppliers for the placement of insurance policies of all classes, facilitating both broker-mediated and direct customer dealings. The DPS helps customers find relevant suppliers through a robust filtering system.
+
+**Scope:**
+- **Eligible Sectors:** Various sectors requiring insurance services
+- **Service Types:**
+  - Broker-mediated insurance placements
+  - Direct customer insurance dealings
+  - Geography-based services
+  - Sector-specific services
+  - Insurance class and subclass services
+  - Associated additional services
+
+**Restrictions:**  
+Award of call-off contracts is through further competition only. This framework operates for 8 years and expires on 5 February 2028.
+
+**URL Link:** [Insurance Services 3 DPS: RM6138](https://www.crowncommercial.gov.uk/agreements/RM6138)

@@ -1,0 +1,28 @@
+**Transport Technology & Associated Services**  
+**Framework Number: RM6099**  
+**Category: Digital and Technology Services**  
+
+**Objective:**  
+Provides a wide range of transport technologies and services for the aviation, road, rail, and maritime sectors. It aims to support the central government, UK wider public sector, and UK Public sector Arm’s length bodies with enhanced transport-related technology, replacing the Traffic Management Technology 2 agreement.  
+
+**Scope:**  
+- Eligible Sectors: Aviation, road, rail, maritime
+- Service Types:
+  - Transport engineering and design services
+  - Transport signage
+  - Pedestrian management and control systems
+  - Intelligent transport systems (geographic, asset and environmental management and monitoring systems)
+  - Sustainable transport technologies (Clean Air Zone, Carbon Net Zero initiatives, environmental monitoring equipment, electric vehicle charging solutions)
+  - Transport gate systems (hardware and software)
+  - Cameras (ANPR, CCTV, speed monitoring)
+
+**Restrictions:**  
+Government Departments are instructed to cease deployment of visual surveillance systems on sensitive sites if produced by companies subject to the National Intelligence Law of the People’s Republic of China. For inquiries about procuring visual surveillance systems, contact the transport technology team at transporttechnology@crowncommercial.gov.uk.  
+
+**Additional Information:**  
+- Agreement Duration: 2 years, with an option to extend for an additional 2 years
+- Uses Public Sector Contract (PSC) terms and conditions
+- Includes a catalogue for purchasing low value and low complexity goods and services (e.g., cameras and related services)
+- CCS supports the public sector deployment of EV infrastructure through this agreement and the Vehicle Charging Infrastructure Solutions (VCIS) dynamic purchasing system (DPS).  
+
+URL: [Transport Technology & Associated Services RM6099](https://www.crowncommercial.gov.uk/agreements/RM6099)

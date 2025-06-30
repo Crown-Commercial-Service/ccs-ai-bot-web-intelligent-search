@@ -3,10 +3,11 @@ from fastapi.security import APIKeyHeader
 from fastapi.middleware.cors import CORSMiddleware
 from typing import Optional
 from pydantic import BaseModel
-from models.MultiAgnet_model import MultiAgent_Answering as process_query
+from models.MultiAgnet_model_v3 import MultiAgent_Answering as process_query
 from auth import validate_api_key
 import time
 import uvicorn
+# import gunicorn
 
 app = FastAPI(
     title="Intelligent Search Engine API",
@@ -29,6 +30,7 @@ class QueryRequest(BaseModel):
 
 class QueryResponse(BaseModel):
     answer: str
+    answer_html: str
     sources: Optional[list] = None
     processing_time: Optional[float] = None
 
@@ -54,11 +56,12 @@ async def search(
     """
     try:
         start_time = time.time()
-        answer, framework_numbers = process_query(request.query)
+        answer, answer_html, framework_numbers = process_query(request.query)
         processing_time = time.time() - start_time
         
         return QueryResponse(
             answer=answer,
+            answer_html=answer_html,
             sources=framework_numbers, 
             processing_time=processing_time
 
@@ -73,4 +76,6 @@ async def health_check():
 
 # if __name__ == "__main__":
 #     uvicorn.run("app:app", host="0.0.0.0", port=8000, reload=True)
+
+# azure deployment command
 # gunicorn -k uvicorn.workers.UvicornWorker app:app --bind=0.0.0.0:8000

@@ -1,0 +1,16 @@
+Framework Name: Insurance & Related Services 4  
+Framework Number: RM6323  
+Category: Financial Services  
+
+Objective: This framework provides public sector entities with access to expert insurance brokerage and advisory services, claims handling, and social housing insurance. The framework aims to assist organizations in selecting suitable insurance policies at affordable prices, backed by professional advisory and consultancy services. 
+
+Scope:
+- Eligible Sectors: Public Sector 
+- Service Types: 
+  - Brokerage and advisory services 
+  - Claims handling services 
+  - Social housing insurance 
+
+Restrictions: This framework is supported by the RM6138 Insurance Services DPS, which complements it by providing access to the insurance market. 
+
+For more information, visit [RM6323 Insurance & Related Services 4](https://www.crowncommercial.gov.uk/agreements/RM6323).

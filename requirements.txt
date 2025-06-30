@@ -12,3 +12,8 @@ azure-storage-blob
 gunicorn
 azure-identity
 langgraph
+nltk 
+scikit-learn 
+PyPDF2 
+python-docx
+odfpy

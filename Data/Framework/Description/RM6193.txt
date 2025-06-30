@@ -1,0 +1,23 @@
+Framework Name: Software Design and Implementation Services  
+Framework Number: RM6193  
+Category: Digital and Technology Services  
+
+Objective: This framework aims to provide specialist, complex, and technical support and implementation services. It assists in deploying new cloud-based Enterprise Resource Planning (ERP) systems or upgrading legacy IT systems. It caters to entities seeking comprehensive back-office digitization and modernization solutions.
+
+Scope:
+- Eligible sectors: Central government departments, wider public sector, third sector organisations
+- Service types:
+  - Enterprise architecture
+  - Business case support
+  - Configuration and testing
+  - System integration
+  - Implementation
+  - Data cleansing and migration
+  - Change management
+  - Training
+  - On-boarding
+  - Application management support
+
+Restrictions: Maximum call off length of 10 years with flexibility on extension options within this duration. No minimum call-off required. For a clear split between contracts with software providers and professional service suppliers, it is recommended to use RM6194 Back Office Software (BOS) in conjunction.  
+
+URL link: [Software Design and Implementation Services RM6193](https://www.crowncommercial.gov.uk/agreements/RM6193)

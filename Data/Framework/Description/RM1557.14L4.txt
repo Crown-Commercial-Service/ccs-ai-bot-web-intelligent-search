@@ -1,0 +1,24 @@
+**Framework Name**: G-Cloud 14 Lot 4  
+**Framework Number**: RM1557.14L4  
+**Category**: Cloud and Hosting  
+
+**Objective**:  
+Public sector customers can access comprehensive cloud support services, including set up, migration, security, and performance testing, through further competition from multiple categories under this agreement. 
+
+**Scope**:  
+- Eligible sectors: Public sector  
+- Service types:  
+  - Cloud migration planning  
+  - Set up and migration  
+  - Security services  
+  - Quality assurance and performance testing  
+  - Training  
+  - Ongoing support  
+
+**Restrictions**:  
+- The framework will run for 18 months from 29 October 2024.  
+- Call-off contracts initially last up to 36 months with a possible 12-month extension.  
+- Total call-off length not to exceed 48 months.  
+- Specific restrictions apply to central government contract extensions.  
+
+[Framework URL](https://www.crowncommercial.gov.uk/agreements/RM1557.14L4/)

@@ -1,0 +1,24 @@
+**Framework Name**: Vehicle Charging Infrastructure Solutions (VCIS)  
+**Framework Number**: RM6213  
+**Category**: Digital and Technology Services  
+
+**Objective**:  
+The Vehicle Charging Infrastructure Solutions (VCIS) framework provides central government and public sector entities with access to a range of products and services to support the development of electric and hybrid vehicle charging infrastructure. It allows buyers to procure either full end-to-end solutions or specific elements as needed to facilitate the transition to low emission vehicles.
+
+**Scope**:
+- Eligible Sectors: Central government, wider public sector
+- Service Types:
+  - Consultancy and feasibility studies
+  - Civil design and installation
+  - Provision, installation, and maintenance of charging hardware
+  - Software and back-office solutions
+  - Lease and purchase options for products
+  - Comprehensive end-to-end service solutions
+
+**Restrictions**:  
+- No maximum contract length
+- Unlimited supplier spaces, contingent on meeting selection criteria
+- No cost for suppliers to join the agreement
+
+**Additional Information**:  
+CCS supports the deployment of EV infrastructure via two agreements: Transport Technology and Associated Services (TTAS) and VCIS. A Dynamic Purchasing System (DPS) is used for filtering relevant suppliers. Explore key differences and procurement scenarios on the provided [VCIS agreement page](https://www.crowncommercial.gov.uk/agreements/RM6213).

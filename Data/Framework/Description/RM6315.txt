@@ -1,0 +1,23 @@
+Framework Name: Vehicle Telematics Solutions   
+Framework Number: RM6315   
+Category: Fleet  
+  
+Objective: Central government and the wider public sector can use this agreement to lease, hire, or buy vehicle telematics solutions such as vehicle tracking, surveillance, and data extraction. The framework provides access to telematics products and services to improve fleet efficiency, optimize driver and risk management. Telematics encompasses information technology and telecommunications to track vehicle movement and extract data for decision making.   
+
+Scope:  
+- Eligible sectors: Central government, wider public sector  
+- Service types:  
+  - Telematics data extraction devices (OBD, Can-Bus, plug-in devices, smartphone solutions)  
+  - In-cab devices (monitors, cameras, dash-cams)  
+  - External cameras, CCTV  
+  - Asset and vehicle tracking software  
+  - Route planning software  
+  - Event video recorders, incident data recorders  
+  - Solutions for specialist and heavy vehicles (waste management, winter maintenance)  
+  - Workforce and/or fleet management optimization (devices, software)  
+  - Driver and risk management (driver ID, driver benchmarking)  
+  - Products/services for covert operations, blue light fleet, and incident management  
+  
+Restrictions: Agreement runs for 2 years until its expiry on 4 March 2026.  
+
+URL link: [Vehicle Telematics Solutions](https://www.crowncommercial.gov.uk/agreements/RM6315)

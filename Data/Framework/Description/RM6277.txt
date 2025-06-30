@@ -1,0 +1,28 @@
+Framework Name: Non Clinical Staffing  
+Framework Number: RM6277  
+Category: HR and Workforce Services
+
+Objective: This framework enables public and third sector organizations to hire quality non-clinical workers through various engagement models, including fixed-term positions, temporary roles, and contractors. It aims to provide efficient staffing solutions for roles across diverse administrative and support services.
+
+Scope: 
+- Eligible Sectors:
+  - NHS contracting authorities
+  - Central government
+  - Local government
+  - Universities
+  - Charities
+  - Emergency (blue light) services
+
+- Service Types:
+  - Administration and secretarial roles
+  - Finance, accounts, and audit roles
+  - IT technicians, analysts, and digital workers
+  - Legal secretaries, paralegals, and lawyers
+  - Environmental and scientific roles (e.g., senior assistant scientists, clinical coders)
+  - Catering, driving, and security roles
+  - Estates and maintenance roles (e.g., electricians, surveyors)
+  - Project management and managed services
+
+Restrictions: Roles requiring medical qualifications are out of scope and can be sourced through the Clinical Staffing agreement.
+
+For more information, visit: [Non Clinical Staffing RM6277](https://www.crowncommercial.gov.uk/agreements/RM6277)

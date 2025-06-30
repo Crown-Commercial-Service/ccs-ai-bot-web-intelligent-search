@@ -1,0 +1,12 @@
+Framework Name: Courier and Specialist Movements  
+Framework Number: RM6171  
+Category: Facilities Management  
+Objective: Provides all UK public sector customers with access to a comprehensive range of courier and specialist movement services, from simple parcel deliveries to complex, large-scale specialist services. The framework is designed to replace RM3798 Courier Services and RM3799 Specialist Courier Services and is structured into six lots, ensuring extensive collection and delivery options.
+
+Scope:
+- Eligible sectors: Public sector
+- Service types: Parcel deliveries, document transport, bulk pallet movements, high-value secure items, samples, specimens, pharmaceutical products (including controlled drugs and medication), firearms, weapons and ammunition
+- Additional services: Asset recovery for disposal and auction of obsolete items (includes vehicles, IT, and office equipment)
+
+Restrictions: Agreement valid for four years, expiring on 10 August 2025.  
+URL: [Courier and Specialist Movements](https://www.crowncommercial.gov.uk/agreements/RM6171)

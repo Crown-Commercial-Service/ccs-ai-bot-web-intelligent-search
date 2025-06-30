@@ -1,0 +1,27 @@
+Framework Name: G-Cloud 14  
+Framework Number: RM1557.14  
+Category: Cloud and Hosting  
+
+Objective:  
+G-Cloud 14 provides an online catalogue for public sector organisations and charities to procure cloud-based computing services, including hosting, software, cloud support, and many off-the-shelf, pay-as-you-go cloud solutions. It aims to deliver a wide variety of cloud services from a range of suppliers and has replaced G-Cloud 13.
+
+Scope:  
+* Eligible sectors:
+  - Central government
+  - Charities
+  - Education
+  - Health
+  - Local authority
+  - Blue light services (police, fire, ambulance, search and rescue)
+  - Devolved administrations
+  - British overseas territories
+
+* Service types:
+  - Cloud hosting
+  - Cloud software
+  - Cloud support
+
+Restrictions:  
+The framework will run for 18 months starting from 29 October 2024. Call-off contracts can last up to 36 months, with an option to extend once by up to 12 months, not exceeding a total of 48 months. Extensions for central government contracts are subject to specific restrictions.  
+
+For more information, visit [G-Cloud 14](https://www.crowncommercial.gov.uk/agreements/RM1557.14).

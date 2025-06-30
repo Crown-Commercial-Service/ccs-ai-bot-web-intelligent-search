@@ -1,0 +1,22 @@
+Framework Name: Spark DPS  
+Framework Number: RM6094  
+Category: Digital and Technology Services  
+
+Objective:  
+Spark DPS, also known as the Technology Innovation Marketplace, supports government and public sector entities in accessing new and emerging technology products and services. The system is designed to facilitate the procurement of innovations in areas such as IoT, AI, simulated environments, wearables, and security improvements. It utilizes a sophisticated filter system to match customers with suppliers offering relevant and impactful technological solutions.
+
+Scope:  
+- Eligible Sectors: Government, Public Sector  
+- Service Types:  
+  - Internet of Things (IoT)  
+  - Artificial Intelligence (AI) and automation  
+  - Simulated and enhanced environments  
+  - Engineering/materials science  
+  - Data solutions  
+  - Wearables  
+  - Transport  
+  - Security  
+
+Restrictions:  
+Suppliers applying to join the marketplace must demonstrate their ability to provide innovative products, either through Radical Innovation or Disruptive Innovation, and must have their contract examples approved by customers. Suppliers can apply at any time, and the assessment process reportedly takes up to 15 working days.  
+For additional details and bid pack information, visit the [Spark DPS Agreement Page](https://www.crowncommercial.gov.uk/agreements/RM6094).

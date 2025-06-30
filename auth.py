@@ -7,10 +7,12 @@ load_dotenv()
 
 API_KEY_NAME = "X-API-KEY"
 VALID_API_KEY = os.getenv("webpilot_API_key")
+print(VALID_API_KEY)
 
 api_key_header = APIKeyHeader(name=API_KEY_NAME, auto_error=False)
 
 async def validate_api_key(api_key: str = Depends(api_key_header)):
+    print(api_key)
     if not api_key:
         raise HTTPException(
             status_code=status.HTTP_401_UNAUTHORIZED,

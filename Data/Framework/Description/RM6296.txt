@@ -1,0 +1,22 @@
+**Framework Name**: Occupational Health and Related Services DPS
+
+**Framework Number**: RM6296
+
+**Category**: HR and Workforce Services
+
+**Objective**: Provide access to preventative services and treatments supporting employee physical and mental health and well-being for UK public sector bodies, the wider public sector, and third-sector organisations.
+
+**Scope**:
+- Eligible sectors: Public sector bodies, wider public sector, third-sector organisations
+- Service types:
+  - Full service providers (covering all occupational health and employee assistance programmes)
+  - Occupational health services
+  - Employee assistance programmes
+  - Eye care and hearing services
+  - Health surveillance services
+  - Health screening services
+  - Vaccinations
+  - Guidance and counselling services
+  - Rehabilitation services
+
+**Restrictions**: Available to use until 27 October 2028. Complies with Public Contracts Regulations (PCR) 2015. More information at: [RM6296 Agreement](https://www.crowncommercial.gov.uk/agreements/RM6296).

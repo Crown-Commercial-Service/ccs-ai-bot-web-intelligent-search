@@ -1,0 +1,20 @@
+Framework Name: Housing Maintenance and Repair  
+Framework Number: RM6241  
+Category: Facilities Management  
+Objective: This framework enables central government and wider public sector organizations to procure comprehensive housing maintenance and repair services. It includes both planned and reactive maintenance, ensuring properties meet essential compliance standards. Additionally, it supports property improvements towards energy efficiency to help achieve Net Zero goals.
+
+Scope:
+- Eligible sectors: Central government, wider public sector organizations
+- Service types:
+  - Planned maintenance (tenanted and vacant properties)
+  - Responsive repairs
+  - Essential compliance services (fire safety, electrical testing, asbestos management)
+  - Whole home retrofit (PAS 2030/35 certified)
+  - Housing portfolio management
+  - Move ins and outs
+  - Disposals
+  - Managing and fulfilling repair requests
+
+Restrictions: None
+
+URL: [Housing Maintenance and Repair RM6241](https://www.crowncommercial.gov.uk/agreements/RM6241)

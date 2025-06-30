@@ -1,0 +1,25 @@
+Framework Name: Storage, Distribution, Kitting and Associated Services
+Framework Number: RM6282
+Category: Facilities Management 
+Objective: Access a range of storage, distribution, and kitting solutions under one agreement. Includes UK and international services, quality control of items, and specialist collection and delivery services.
+
+Scope:
+- Eligible sectors: 
+  - Central government departments
+  - Local authorities
+  - Emergency services (health, police, fire and rescue)
+  - Education sector
+  - Devolved administrations
+- Service types: 
+  - International air, rail, and sea freight services
+  - Quality control of items
+  - Asset tracking
+  - UK and international storage, fulfilment, transport, and distribution
+  - Specialist collection and delivery (medical samples, specimens, pharmaceuticals)
+  - Recycling and disposal services
+  - Print services (brochures)
+  - Packaging (cardboard boxes, tamper proof seals, plastic mailing bags, medical packaging like absorbent pads)
+
+Restrictions: The framework is split across 7 lots. It has no extensions and will expire on 14 February 2026.
+
+For further information, visit: [RM6282 Agreement](https://www.crowncommercial.gov.uk/agreements/RM6282)
